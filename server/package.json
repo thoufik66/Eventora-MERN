@@ -1,7 +1,7 @@
 {
-    "name": "eventx-server",
+    "name": "eventora-server",
     "version": "1.0.0",
-    "description": "EventX Backend",
+    "description": "Eventora Backend",
     "main": "server.js",
     "scripts": {
         "start": "node server.js",
